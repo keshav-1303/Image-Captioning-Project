@@ -53,6 +53,3 @@ model = load_model('models/caption_model.h5')
 * Evaluated using BLEU score.
 
 ```
-
-If you'd like, I can **insert exact model names / dataset / functions** from your notebook—just say the word! 🚀
-```
