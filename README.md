@@ -1,6 +1,3 @@
-Sure! Here’s a clean, **short and to-the-point README code** for your *Image Captioning Project*:
-
-````markdown
 # 🖼️ Image Captioning Project
 
 This project builds a model that generates captions for images using a CNN for feature extraction and an LSTM for sequence generation.
