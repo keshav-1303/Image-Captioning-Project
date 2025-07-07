@@ -52,4 +52,3 @@ model = load_model('models/caption_model.h5')
 * Data: \[COCO/Flickr8k/Flickr30k or custom dataset]
 * Evaluated using BLEU score.
 
-```
